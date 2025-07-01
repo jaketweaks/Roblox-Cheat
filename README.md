@@ -63,7 +63,7 @@ It allows you to simulate dozens of client-side features, create/test toggles, U
 
 ## 🖼️ UI Example (GTA-Style Layout)
 
-![UI Preview](https://ibb.co/Hm6h4k7)
+![UI Preview] https://ibb.co/Hm6h4k7
 
 > Recreated interface inspired by GTA menus – fully skinnable and scriptable
 
