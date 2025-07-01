@@ -6,7 +6,7 @@
 
 PhantomX is a **standalone, desktop-based UI client** that emulates a GTA-style mod menu interface for **Roblox Studio or sandbox environments**.
 
-It allows you to simulate dozens of client-side features, create/test toggles, UI layouts, multipliers, and scripting behaviors —
+It allows you to simulate dozens of client-side features, create/test toggles, UI layouts, multipliers, and scripting behaviors
 
 ---
 
